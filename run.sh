@@ -35,5 +35,5 @@ fi
 echo "自瞄常驻已启动：请在游戏中点「开始游戏」（本窗口保持开启，Ctrl+C 退出）"
 while true; do
   ./build/auto_aim
-  sleep 2
+  sleep 2 
 done
