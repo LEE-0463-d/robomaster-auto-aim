@@ -42,7 +42,7 @@ run.sh               一键启动脚本
 
 主要模块：
 
-- `AimNode`：主循环（订阅图像、状态机、开火决策）
+- `AimNode`：主循环
 - `PlateDetector`：装甲板检测与敌我颜色判定
 - `PlateTracker`：装甲板跟踪
 - `Kalman1DFilter`：一维卡尔曼滤波（单轴匀速模型）
