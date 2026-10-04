@@ -1,6 +1,6 @@
 ## 准备游戏
 
-下面示例中 `/path/to/homework2026` ，请替换为自己的实际路径。
+下面 `/path/to/homework2026` ，替换为自己的路径。
 新开一个终端：
 ```bash
 source /opt/ros/humble/setup.bash
